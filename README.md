@@ -1,4 +1,6 @@
 Deployed App: https://kelbach.github.io/photo-port/
+![image](https://user-images.githubusercontent.com/87092340/149401338-ae39791b-2280-4cfb-a153-8f0383b0972c.png)
+
 
 # Getting Started with Create React App
 
